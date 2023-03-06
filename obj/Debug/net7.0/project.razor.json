@@ -498,6 +498,43 @@
         }
       },
       {
+        "HashCode": 1900781853,
+        "Kind": "Components.Component",
+        "Name": "PruebaDeBlazor.Shared.NavMenu",
+        "AssemblyName": "PruebaDeBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PruebaDeBlazor.Shared.NavMenu",
+          "Common.TypeNamespace": "PruebaDeBlazor.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
+        }
+      },
+      {
+        "HashCode": -2016772444,
+        "Kind": "Components.Component",
+        "Name": "PruebaDeBlazor.Shared.NavMenu",
+        "AssemblyName": "PruebaDeBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PruebaDeBlazor.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PruebaDeBlazor.Shared.NavMenu",
+          "Common.TypeNamespace": "PruebaDeBlazor.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 622522551,
         "Kind": "Components.Component",
         "Name": "PruebaDeBlazor.Shared.MainLayout",
@@ -600,43 +637,6 @@
           "Common.TypeNamespace": "PruebaDeBlazor.Shared",
           "Common.TypeNameIdentifier": "MainLayout",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1900781853,
-        "Kind": "Components.Component",
-        "Name": "PruebaDeBlazor.Shared.NavMenu",
-        "AssemblyName": "PruebaDeBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PruebaDeBlazor.Shared.NavMenu",
-          "Common.TypeNamespace": "PruebaDeBlazor.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
-        }
-      },
-      {
-        "HashCode": -2016772444,
-        "Kind": "Components.Component",
-        "Name": "PruebaDeBlazor.Shared.NavMenu",
-        "AssemblyName": "PruebaDeBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PruebaDeBlazor.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PruebaDeBlazor.Shared.NavMenu",
-          "Common.TypeNamespace": "PruebaDeBlazor.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
