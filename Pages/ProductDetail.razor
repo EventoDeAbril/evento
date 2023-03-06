@@ -1,0 +1,16 @@
+<div>
+    <span>@title</span>
+    <span>@description</span>
+    <button class="btn btn-primary" @onclick = "@(() => OnClick.InvokeAsync(title))">Click me</button>
+</div>
+
+@code {
+    [Parameter]
+    public string title { get; set; } = "Product detail";
+
+    [Parameter]
+    public string description { get; set; } = "Product desc";
+
+    [Parameter]
+    public EventCallback<string> OnClick { get; set; }
+}

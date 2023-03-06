@@ -1,0 +1,18 @@
+@page "/todo"
+
+<div>
+    <h2>Todo s</h2>
+    @foreach (var item in todoList)
+    {
+        <div>@item.title</div>
+    }
+</div>
+
+@code {
+    public class Todoing {
+        public string ?title { get; set; }
+    }
+
+    List<Todoing> todoList = new List<Todoing>() {
+        new Todoing { title = "cosas"} , new Todoing { title = "más cosas"} };
+}

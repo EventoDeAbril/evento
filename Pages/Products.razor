@@ -1,0 +1,28 @@
+@page "/products"
+
+<h2>Products</h2>
+
+Le has dado a: @message
+
+@foreach (var item in productsList)
+{
+    <ProductDetail OnClick = "Clicked" title = "@item.Title" description = "@item.Desc" />
+}
+
+@code {
+    string message = "";
+
+    List<Product> productsList = new List<Product> {
+        new Product(){ Title = "Libro", Desc = "desde luego"},
+        new Product(){ Title = "DVD", Desc = "seguro"}
+    };
+
+    void Clicked (string name){
+        message = name;
+    }
+
+    public class Product {
+        public string ?Title { get; set; }
+        public string ?Desc { get; set; }
+    }
+}
