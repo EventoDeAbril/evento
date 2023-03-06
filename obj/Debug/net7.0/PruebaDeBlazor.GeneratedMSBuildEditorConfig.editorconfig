@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = PruebaDeBlazor
 build_property.RootNamespace = PruebaDeBlazor
-build_property.ProjectDir = C:\Users\Lenovo\source\repos\PruebaDeBlazor\
+build_property.ProjectDir = c:\Users\Lenovo\source\repos\PruebaDeBlazor\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Lenovo\source\repos\PruebaDeBlazor
+build_property.MSBuildProjectDirectory = c:\Users\Lenovo\source\repos\PruebaDeBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/App.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Counter.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/ElPartido.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/ElPartido.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWxQYXJ0aWRvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/FetchData.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Index.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Inicio.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Inicio.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5pY2lvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/LaPlantilla.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/LaPlantilla.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFQbGFudGlsbGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/ProductDetail.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/ProductDetail.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Products.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Todo.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Shared/SurveyPrompt.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/_Imports.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Shared/MainLayout.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ffq5bwzzjy
 
-[C:/Users/Lenovo/source/repos/PruebaDeBlazor/Shared/NavMenu.razor]
+[c:/Users/Lenovo/source/repos/PruebaDeBlazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-umc3s89a8j
